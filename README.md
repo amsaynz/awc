@@ -2,7 +2,7 @@
 A client to recieve websocket commands for recording in Audacity.
 
 ## Usage
-1. Download Python 3.10+
+1. Download Python 3.10+ (I test on 3.10.11)
 2. Once Python is installed download the src folder from github
 3. Open the folder in your terminal
 4. Run ```pip install -r requirements.txt```
